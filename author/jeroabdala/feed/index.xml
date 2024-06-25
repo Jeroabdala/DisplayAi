@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jeroabdala &#8211; Display Ai</title>
+	<atom:link href="/author/jeroabdala/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>A complete solutions to create awesome WordPress websites.</description>
+	<lastBuildDate>Sat, 06 Apr 2024 18:42:15 +0000</lastBuildDate>
+	<language>es-AR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/06/D-1.png</url>
+	<title>jeroabdala &#8211; Display Ai</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>day3</title>
+		<link>/day3/</link>
+					<comments>/day3/#respond</comments>
+		
+		<dc:creator><![CDATA[jeroabdala]]></dc:creator>
+		<pubDate>Sat, 06 Apr 2024 18:34:44 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">/?p=1340</guid>
+
+					<description><![CDATA[13:00 -> asd 13:00 -> asd 13:00 -> asd 13:00 -> asd 13:00 -> asd 13:00 -> asd]]></description>
+										<content:encoded><![CDATA[
+<p>13:00 -> asd</p>
+
+
+
+<p>13:00 -> asd</p>
+
+
+
+<p>13:00 -> asd</p>
+
+
+
+<p>13:00 -> asd</p>
+
+
+
+<p>13:00 -> asd</p>
+
+
+
+<p>13:00 -> asd</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/day3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>day2</title>
+		<link>/day2/</link>
+					<comments>/day2/#respond</comments>
+		
+		<dc:creator><![CDATA[jeroabdala]]></dc:creator>
+		<pubDate>Sat, 06 Apr 2024 18:34:27 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">/?p=1338</guid>
+
+					<description><![CDATA[13:00 -&#62; asd 13:00 -&#62; asd 13:00 -&#62; asd 13:00 -&#62; asd 13:00 -&#62; asd 13:00 -&#62; asd]]></description>
+										<content:encoded><![CDATA[
+<p>13:00 -&gt; asd</p>
+
+
+
+<p>13:00 -&gt; asd</p>
+
+
+
+<p>13:00 -&gt; asd</p>
+
+
+
+<p>13:00 -&gt; asd</p>
+
+
+
+<p>13:00 -&gt; asd</p>
+
+
+
+<p>13:00 -&gt; asd</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/day2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>day1</title>
+		<link>/day1/</link>
+					<comments>/day1/#respond</comments>
+		
+		<dc:creator><![CDATA[jeroabdala]]></dc:creator>
+		<pubDate>Sat, 06 Apr 2024 18:34:10 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">/?p=1336</guid>
+
+					<description><![CDATA[13:00 -&#62; asd 13:00 -&#62; asd 13:00 -&#62; asd 13:00 -&#62; asd 13:00 -&#62; asd 13:00 -&#62; asd]]></description>
+										<content:encoded><![CDATA[
+<p>13:00 -&gt; asd</p>
+
+
+
+<p>13:00 -&gt; asd</p>
+
+
+
+<p>13:00 -&gt; asd</p>
+
+
+
+<p>13:00 -&gt; asd</p>
+
+
+
+<p>13:00 -&gt; asd</p>
+
+
+
+<p>13:00 -&gt; asd</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/day1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>¡Hola mundo!</title>
+		<link>/hola-mundo/</link>
+					<comments>/hola-mundo/#comments</comments>
+		
+		<dc:creator><![CDATA[jeroabdala]]></dc:creator>
+		<pubDate>Wed, 03 Apr 2024 16:41:45 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Bienvenido a WordPress. Esta es tu primera entrada. Editala o borrala, y después ¡empezá a escribir!]]></description>
+										<content:encoded><![CDATA[
+<p>Bienvenido a WordPress. Esta es tu primera entrada. Editala o borrala, y después ¡empezá a escribir!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hola-mundo/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
